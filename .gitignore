@@ -1,0 +1,92 @@
+js/api_key.js
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and Debugging
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories (if using package managers in future)
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Build and Distribution
+dist/
+build/
+*.tgz
+*.tar.gz
+
+# Environment and Config (if using .env files in future)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache and Temp Files
+.cache/
+.temp/
+.tmp/
+*.tmp
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Testing and Coverage
+coverage/
+.nyc_output/
+.coverage/
+
+# Documentation
+docs/_build/
+
+# Personal Notes (optional)
+notes.md
+todo.txt
+NOTES.md
+
+# Compressed Files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Local Configuration Override (if needed)
+config.local.js
+local-settings.js
+
+# Deployment Files (auto-generated)
+.vercel
+.netlify/
+
+# Browser Extension Files (if packaging as extension)
+*.crx
+*.xpi
+
+# Sass Cache (if using Sass in future)
+.sass-cache/
+*.css.map
+
+# TypeScript (if converting to TS)
+*.tsbuildinfo
